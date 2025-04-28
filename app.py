@@ -1,3 +1,4 @@
+
 from flask import Flask, render_template, request, redirect, session
 import joblib
 import os
@@ -7,8 +8,8 @@ app = Flask(__name__)
 app.secret_key = 'supersecretkey'
 
 MODELS = {
-    "LinearRegression": "LinearRegression_model.pkl",
-    "RidgeRegression": "RidgeRegression_model.pkl",
+    #"LinearRegression": "LinearRegression_model.pkl",
+    #"RidgeRegression": "RidgeRegression_model.pkl",
     "DecisionTree": "DecisionTree_model.pkl"
 }
 
