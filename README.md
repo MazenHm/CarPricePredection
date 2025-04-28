@@ -108,7 +108,7 @@ Login using admin credentials, then input car details to predict the price.
 
 ---
 
-## 📷 (Optional) Screenshots
+## 📷 Logo
 
 > Home Page
 ![Login Page](static/pppp.png)
