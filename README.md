@@ -45,7 +45,7 @@ User Login ➔ Input Car Details ➔ Model Prediction ➔ Price Display
 ---
 
 ## 🗂 Folder Structure
-
+```
 car_price/
 ├── app.py                   # Flask app
 ├── README.md
@@ -61,7 +61,7 @@ car_price/
 ├── templates/
 │   ├── login.html            # Login page
 │   └── predict.html          # Prediction page
-
+```
 ---
 
 ## ⚙️ Tech Stack
